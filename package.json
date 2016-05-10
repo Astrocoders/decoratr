@@ -1,0 +1,23 @@
+{
+  "name": "decoratr",
+  "version": "1.0.0",
+  "description": "A simple factory function that constructors a ES7 decorator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Astrocoders/decoratr.git"
+  },
+  "keywords": [
+    "es7",
+    "decorators"
+  ],
+  "author": "Gabriel Rubens",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Astrocoders/decoratr/issues"
+  },
+  "homepage": "https://github.com/Astrocoders/decoratr#readme"
+}
